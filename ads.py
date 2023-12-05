@@ -9,23 +9,23 @@ css_string = """
 
             </style> 
 
-            <div class="sidebar">
+            # <div class="sidebar">
 
-            <div class="side-block">
-            <a target="_blank" href="https://opencv.org/courses" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/03/opencv-course1.png" alt="Opencv Courses">
-            </div>
-            <div class="side-block">
-            <a href="https://learnopencv.com" class="button ">Subscribe To My Newsletter</a>
-            <div class="side-block">
-            </div>
-            <a target="_blank" href="https://pallet.xyz/list/ai-jobs?" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/02/learnopencv-ai-jobs.jpg" alt="Opencv Courses">
-            </div>
-            <div class="side-block">
-            <a target="_blank" href="https://bigvision.ai" rel="noopener">
-            <img src="https://learnopencv.com/wp-content/uploads/2022/02/bigvision.jpg" alt="Opencv Courses"></a>
-            </div>
-            </div> 
+            # <div class="side-block">
+            # <a target="_blank" href="https://opencv.org/courses" rel="noopener">
+            # <img src="https://learnopencv.com/wp-content/uploads/2022/03/opencv-course1.png" alt="Opencv Courses">
+            # </div>
+            # <div class="side-block">
+            # <a href="https://learnopencv.com" class="button ">Subscribe To My Newsletter</a>
+            # <div class="side-block">
+            # </div>
+            # <a target="_blank" href="https://pallet.xyz/list/ai-jobs?" rel="noopener">
+            # <img src="https://learnopencv.com/wp-content/uploads/2022/02/learnopencv-ai-jobs.jpg" alt="Opencv Courses">
+            # </div>
+            # <div class="side-block">
+            # <a target="_blank" href="https://bigvision.ai" rel="noopener">
+            # <img src="https://learnopencv.com/wp-content/uploads/2022/02/bigvision.jpg" alt="Opencv Courses"></a>
+            # </div>
+            # </div> 
 
-            """
+            # """

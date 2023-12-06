@@ -7,7 +7,7 @@ from streamlit_webrtc import VideoHTMLAttributes, webrtc_streamer
 
 from audio_handling import AudioFrameHandler
 from drowsy_detection import VideoFrameHandler
-from ads import css_string
+from css import css_string
 
 
 # Define the audio file to use.
@@ -16,12 +16,10 @@ alarm_file_path = os.path.join("audio", "wake_up.wav")
 # Streamlit Components
 st.set_page_config(
     page_title="Drowsiness Detection",
-    # page_icon="https://learnopencv.com/wp-content/uploads/2017/12/favicon.png",
+    
     layout="wide",  # centered, wide
     initial_sidebar_state="expanded",
-    # menu_items={
-    #     "About": "### Visit www.learnopencv.com for more exciting tutorials!!!",
-    # },
+    
 )
 
 
